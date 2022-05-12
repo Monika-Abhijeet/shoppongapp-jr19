@@ -1,0 +1,11 @@
+.navbar-container {
+  width: 100vw;
+  height: 8vh;
+  background-color: aqua;
+  padding: 10px 30px;
+}
+
+.navbar-list {
+  width: 35%;
+  list-style-type: none;
+}

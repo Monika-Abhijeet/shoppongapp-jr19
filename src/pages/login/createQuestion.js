@@ -1,0 +1,38 @@
+export default questions = [
+  {
+    QNo: 1,
+    question: "what is the tag used to add images",
+    a: "<body>",
+    b: "<html>",
+    c: "<img/>",
+    d: "<h1/>",
+    correctAnswer: "c",
+  },
+  {
+    QNo: 1,
+    question: "what is the tag used to add images",
+    a: "<body>",
+    b: "<html>",
+    c: "<img/>",
+    d: "<h1/>",
+    correctAnswer: "c",
+  },
+  {
+    QNo: 1,
+    question: "what is the tag used to add images",
+    a: "<body>",
+    b: "<html>",
+    c: "<img/>",
+    d: "<h1/>",
+    correctAnswer: "c",
+  },
+  {
+    QNo: 1,
+    question: "what is the tag used to add images",
+    a: "<body>",
+    b: "<html>",
+    c: "<img/>",
+    d: "<h1/>",
+    correctAnswer: "c",
+  },
+];
